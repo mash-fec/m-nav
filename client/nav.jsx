@@ -35,7 +35,7 @@ const Nav = () => (
       <Search />
     </Left>
     <Right>
-    <Links />
+      <Links />
     </Right>
     <Rule />
   </Wrapper>
